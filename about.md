@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: About
+description: About Hansol
 ---
 
 &nbsp;
