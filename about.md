@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Hansol
+title: About
 description: About Hansol
 ---
 
